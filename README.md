@@ -1,7 +1,7 @@
 #P3-Prototype-Boilerplate
 
 ###Description
-Collection of files and techniques to streamline the creation of a rapid prototype. The process in not linear (choose your own adventure)
+Collection of files and techniques to streamline the creation of a rapid prototype. The process in not linear - "choose your own adventure" - but all aspects covered. 
 
 
 ###Project Definition
